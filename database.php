@@ -1,5 +1,5 @@
 <?php
-    $database = [
+ $database = [
         [
             'title' => 'New Jersey',
             'author' => 'Bon Jovi',
